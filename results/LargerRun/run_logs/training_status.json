@@ -1,0 +1,65 @@
+{
+    "AgentBehavior": {
+        "checkpoints": [
+            {
+                "steps": 1499997,
+                "file_path": "results\\LargerRun\\AgentBehavior\\AgentBehavior-1499997.onnx",
+                "reward": 2.275815341383853,
+                "creation_time": 1764559348.9553735,
+                "auxillary_file_paths": [
+                    "results\\LargerRun\\AgentBehavior\\AgentBehavior-1499997.pt"
+                ]
+            },
+            {
+                "steps": 1598876,
+                "file_path": "results\\LargerRun\\AgentBehavior\\AgentBehavior-1598876.onnx",
+                "reward": 2.2120446331810304,
+                "creation_time": 1764559617.5905073,
+                "auxillary_file_paths": [
+                    "results\\LargerRun\\AgentBehavior\\AgentBehavior-1598876.pt"
+                ]
+            },
+            {
+                "steps": 1778601,
+                "file_path": "results\\LargerRun\\AgentBehavior\\AgentBehavior-1778601.onnx",
+                "reward": 2.2922327543826815,
+                "creation_time": 1764560160.4278274,
+                "auxillary_file_paths": [
+                    "results\\LargerRun\\AgentBehavior\\AgentBehavior-1778601.pt"
+                ]
+            },
+            {
+                "steps": 1999945,
+                "file_path": "results\\LargerRun\\AgentBehavior\\AgentBehavior-1999945.onnx",
+                "reward": 2.27537833576482,
+                "creation_time": 1764560818.5107298,
+                "auxillary_file_paths": [
+                    "results\\LargerRun\\AgentBehavior\\AgentBehavior-1999945.pt"
+                ]
+            },
+            {
+                "steps": 2000009,
+                "file_path": "results\\LargerRun\\AgentBehavior\\AgentBehavior-2000009.onnx",
+                "reward": 2.27537833576482,
+                "creation_time": 1764560818.5985472,
+                "auxillary_file_paths": [
+                    "results\\LargerRun\\AgentBehavior\\AgentBehavior-2000009.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000009,
+            "file_path": "results\\LargerRun\\AgentBehavior.onnx",
+            "reward": 2.27537833576482,
+            "creation_time": 1764560818.5985472,
+            "auxillary_file_paths": [
+                "results\\LargerRun\\AgentBehavior\\AgentBehavior-2000009.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.5.1+cu121"
+    }
+}

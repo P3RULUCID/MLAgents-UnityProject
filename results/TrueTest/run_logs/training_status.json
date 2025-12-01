@@ -1,0 +1,65 @@
+{
+    "AgentBehavior": {
+        "checkpoints": [
+            {
+                "steps": 1810229,
+                "file_path": "results\\TrueTest\\AgentBehavior\\AgentBehavior-1810229.onnx",
+                "reward": 1.1517132583662955,
+                "creation_time": 1764550444.6813238,
+                "auxillary_file_paths": [
+                    "results\\TrueTest\\AgentBehavior\\AgentBehavior-1810229.pt"
+                ]
+            },
+            {
+                "steps": 1817266,
+                "file_path": "results\\TrueTest\\AgentBehavior\\AgentBehavior-1817266.onnx",
+                "reward": 1.7919204148733727,
+                "creation_time": 1764550551.7952633,
+                "auxillary_file_paths": [
+                    "results\\TrueTest\\AgentBehavior\\AgentBehavior-1817266.pt"
+                ]
+            },
+            {
+                "steps": 1873641,
+                "file_path": "results\\TrueTest\\AgentBehavior\\AgentBehavior-1873641.onnx",
+                "reward": 1.7343372613335577,
+                "creation_time": 1764550748.3633015,
+                "auxillary_file_paths": [
+                    "results\\TrueTest\\AgentBehavior\\AgentBehavior-1873641.pt"
+                ]
+            },
+            {
+                "steps": 1999983,
+                "file_path": "results\\TrueTest\\AgentBehavior\\AgentBehavior-1999983.onnx",
+                "reward": 1.709427925400764,
+                "creation_time": 1764551216.2233503,
+                "auxillary_file_paths": [
+                    "results\\TrueTest\\AgentBehavior\\AgentBehavior-1999983.pt"
+                ]
+            },
+            {
+                "steps": 2336105,
+                "file_path": "results\\TrueTest\\AgentBehavior\\AgentBehavior-2336105.onnx",
+                "reward": 1.7208888461423475,
+                "creation_time": 1764552234.4393148,
+                "auxillary_file_paths": [
+                    "results\\TrueTest\\AgentBehavior\\AgentBehavior-2336105.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2336105,
+            "file_path": "results\\TrueTest\\AgentBehavior.onnx",
+            "reward": 1.7208888461423475,
+            "creation_time": 1764552234.4393148,
+            "auxillary_file_paths": [
+                "results\\TrueTest\\AgentBehavior\\AgentBehavior-2336105.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.5.1+cu121"
+    }
+}

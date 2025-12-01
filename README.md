@@ -2,6 +2,8 @@
 
 An AI navigation system trained with reinforcement learning to autonomously navigate around moving obstacles and reach dynamic targets. Built with Unity ML-Agents and PPO algorithm, achieving **90% success rate** with efficient pathfinding in ~250 steps per episode.
 
+**DEMO** Videos located in folder for visual of live-time running agents!
+
 ## Quick Start
 
 **Prerequisites**: Unity 2021.3+, Python 3.9+ (Updated versions may work with minor issues)
